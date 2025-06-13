@@ -1,0 +1,11 @@
+#MACOS
+.DS_Store
+
+
+#Python
+.pytest_cache
+
+
+#Environment
+.virtualenv
+
